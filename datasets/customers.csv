@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,region,country,gender,platform
+1,Dr. Stephanie Robinson,christopher34@example.net,Kelseyside,Tennessee,Saint Martin,m,LinkedIn
+2,Kristin Jordan,sarahruiz@example.net,South Erinville,Wisconsin,Austria,M,LinkedIn
+3,Sonya Ferrell,wallacetiffany@example.org,Melissafort,Wisconsin,Austria,f,Website
+4,Veronica Andrews,hamiltonalicia@example.com,East Carolynhaven,Wyoming,Namibia,male,GoogleAds
+5,Katherine Carpenter,hjackson@example.net,Matthewside,Connecticut,Italy,M,LinkedIn
+6,Diana Turner,xcummings@example.com,Sullivanton,Mississippi,Heard Island and McDonald Islands,M,GoogleAds
+7,Jessica Barrett,gdominguez@example.com,North Jennifer,Pennsylvania,Timor-Leste,Male,LinkedIn
+8,Robert Kaiser,walkereric@example.org,Waynemouth,Massachusetts,Greenland,male,GoogleAds
+9,Rachel Miller,brownmary@example.com,Gilbertshire,Rhode Island,Cote d'Ivoire,Male, Email
+10,Jose Benjamin,austin78@example.com,New Robert,Kentucky,Seychelles,F, Email
+11,Madison Howard,russellcarter@example.net,New Dustintown,Virginia,Turks and Caicos Islands,Male,Website
+12,Jacob Hale,amy37@example.com,West Michaelhaven,Alabama,Equatorial Guinea,m,GoogleAds
+13,Amanda Rogers,tina64@example.com,Alisonstad,New Mexico,Morocco,Female,Website
+14,Nicole Faulkner,emilykelly@example.com,East Williamfort,Connecticut,Barbados,M, Email
+15,Anthony Martin,uadams@example.net,Lake Josephtown,Hawaii,Vietnam,Female,Website
+16,Philip Blanchard,rossalicia@example.com,Lopezshire,Virginia,Sudan,Female,Website
+17,Brian Berry,sherri59@example.org,New Kathy,Pennsylvania,Gambia,F,LinkedIn
+18,John Newton,dhaas@example.net,South Daniel,West Virginia,Costa Rica,M, Email
+19,David Zhang,foxkaitlin@example.com,Davidhaven,Colorado,Liechtenstein,male,Website
+20,Charles Mckinney,robertyoung@example.org,Brownmouth,Rhode Island,Swaziland,f,GoogleAds
+21,Bianca Garrett,brittanylara@example.net,Johnshire,Nebraska,Lithuania,F,Website
+22,Angela Allen,kenneth67@example.org,South Samantha,New York,Djibouti,Male, Email
+23,Raymond Acevedo,angelaallen@example.com,Port Jeremyview,Kentucky,Armenia,male,Website
+24,Andrew Mendoza,stevehill@example.org,West Richardmouth,Oregon,Uruguay,M,Website
+25,Michelle Harris,davisdonna@example.org,Baileyburgh,Washington,Egypt,M, Email
+26,Sherry Jarvis,xsingh@example.com,Port Sandra,Idaho,Afghanistan,f,LinkedIn
+27,Melissa Farrell,anthonytrevino@example.com,Gutierrezfort,Kansas,Liberia,male,Website
+28,Lisa Hanson,dean38@example.net,Lake Jessicabury,Alaska,South Georgia and the South Sandwich Islands,Male,LinkedIn
+29,Timothy Lynch,deannamedina@example.net,Listad,New Jersey,Guam,Female,GoogleAds
+30,Martin Johnson,donaldliu@example.com,Jessicafurt,New York,Azerbaijan,m,GoogleAds
+31,Sherry Brown,ufisher@example.org,Teresaborough,Nevada,Rwanda,f,LinkedIn
+32,Gregory Yu,dfowler@example.org,New Jessica,Minnesota,Luxembourg,male, Email
+33,Shelly Young,aingram@example.com,Clarkmouth,Connecticut,Liechtenstein,Female, Email
+34,Stanley Miller,shelly65@example.com,Kaylaport,New Jersey,Palau,M, Email
+35,Leonard Koch,crystalhughes@example.org,West Stefanie,Massachusetts,United States Virgin Islands,male,GoogleAds
+36,Cody Cortez,shelly39@example.org,Margaretfort,Montana,Nicaragua,M, Email
+37,Jorge Jackson,rjohnson@example.net,Sanchezberg,Montana,Grenada,F,GoogleAds
+38,Max Garcia,margaret27@example.org,New Jonathan,Arizona,Saint Kitts and Nevis,male,LinkedIn
+39,Steven Singleton,nataliepotter@example.org,Port Alexaburgh,Minnesota,Nigeria,Male,Website
+40,Mary Smith,robinsonsusan@example.net,Charlesfort,Minnesota,Niue,F, Email
+41,Richard Allen,gregorysmith@example.net,West Samuelberg,Pennsylvania,Canada,M,Website
+42,Valerie Washington,jessica76@example.org,Port Lori,Georgia,Kyrgyz Republic,Male,LinkedIn
+43,Michael Sweeney,sperez@example.net,Port Joshua,Mississippi,South Africa,F,LinkedIn
+44,Megan Haas,veronica84@example.org,Christopherview,Massachusetts,Jersey,Female,GoogleAds
+45,Daniel Thompson,chenkendra@example.net,South Scottstad,Kansas,Singapore,Male,GoogleAds
+46,Mr. Nicholas Barrera,ericaphillips@example.net,Port Rebecca,Maryland,Guinea-Bissau,Female,GoogleAds
+47,James Serrano,madeline26@example.com,Richardside,Tennessee,British Virgin Islands,F, Email
+48,John Porter,trujillojoshua@example.com,North Nicole,Wyoming,Eritrea,F,Website
+49,Colleen Gonzalez,barnettangel@example.net,Joneschester,Minnesota,Thailand,Male,LinkedIn
+50,Tracey Sims PhD,gayscott@example.net,Rebekahburgh,Wyoming,Iran,f,Website
+51,Ronald Holland,vgibson@example.org,Cooktown,Ohio,Luxembourg,F,LinkedIn
+52,Christopher Wilson,bpace@example.org,Petersenchester,Illinois,Cuba,F, Email
+53,Sean Chambers,ericmalone@example.com,East Robertbury,Nebraska,Gibraltar,Male,LinkedIn
+54,Annette Owens,xkirby@example.net,Kristinaside,Connecticut,Turks and Caicos Islands,Female,LinkedIn
+55,Teresa Brock,ajones@example.org,Rojasstad,Wyoming,Ukraine,M, Email
+56,Robert Foster,laura02@example.com,East Molly,Michigan,Israel,M, Email
+57,Jose Swanson,nicholas99@example.com,East Jeffrey,Massachusetts,Canada,M,LinkedIn
+58,Carolyn Christian,stevenschristine@example.net,Johnnystad,Texas,Cote d'Ivoire,m, Email
+59,Dr. Kimberly Wright MD,tonyhudson@example.org,West Jody,Hawaii,Argentina,f,Website
+60,John Russell,steven72@example.org,West Jennifer,New Mexico,Congo,Male,Website
+61,Michael Romero,hcollins@example.org,Samuelstad,Pennsylvania,Mayotte,male, Email
+62,Erin Harris,kennethfrench@example.com,West Carolyn,North Carolina,Indonesia,f,Website
+63,Michelle Alvarado,uhoward@example.com,New Jamiefurt,Idaho,Germany,male,Website
+64,Christopher Anderson,collinscynthia@example.org,Johnfort,Maine,Kiribati,f, Email
+65,Evan Castillo,yatesjoe@example.net,Ronaldfort,North Carolina,Finland,Male,Website
+66,David Holland,beverlygarcia@example.org,Amandamouth,Utah,Zimbabwe,m,Website
+67,Taylor Jones,carladavis@example.net,Esparzaburgh,New Hampshire,Lesotho,F,Website
+68,Joshua Macdonald,emily98@example.net,Robertburgh,New Jersey,Madagascar,Female,Website
+69,Thomas Clark,juliapatel@example.org,North Tammy,Hawaii,Bermuda,male,GoogleAds
+70,Joshua Atkins,samantha98@example.org,Porterbury,Nebraska,Dominica,Female,LinkedIn
+71,Erica Lewis,valdezmatthew@example.org,South Dustin,Vermont,Senegal,Female,Website
+72,Theresa Simon,djones@example.org,New Jeremiah,South Carolina,Cocos (Keeling) Islands,f,Website
+73,Kevin Parker,benjaminthompson@example.org,Lake Ethan,Florida,Ghana,f,GoogleAds
+74,Michael Ellis,qrichmond@example.net,South Danielleborough,South Carolina,Christmas Island,m,LinkedIn
+75,Gary Thomas,michaelrussell@example.org,Lynnland,Minnesota,Belgium,Female,GoogleAds
+76,Benjamin Higgins,cheryl43@example.com,West Stephaniebury,Indiana,Heard Island and McDonald Islands,male,LinkedIn
+77,Paula Todd,andrea89@example.org,Greeneburgh,Hawaii,Paraguay,m,Website
+78,Nicholas Mccullough,bdavis@example.com,Lake Benjamin,Oregon,Montserrat,M,LinkedIn
+79,William Li,jo26@example.org,Jenniferfort,Hawaii,Albania,male, Email
+80,Christopher Williams,blakepalmer@example.net,New Alexanderborough,Mississippi,Guam,M, Email
+81,Monica Taylor,emartin@example.net,Lopezburgh,Missouri,Lithuania,m,Website
+82,John Jones,carrillorebecca@example.net,Lowefurt,Arkansas,Georgia,Male,LinkedIn
+83,Anthony Davis,clarkgreg@example.net,Stricklandview,Minnesota,Northern Mariana Islands,M,LinkedIn
+84,Natasha Rodriguez,awilliams@example.net,South Kelly,New Jersey,Panama,m, Email
+85,Rachel Beltran,rosswilliam@example.com,North Mikaylafort,Arkansas,Belize,f,LinkedIn
+86,Andrew Baker,martinezbenjamin@example.org,Clairemouth,Oregon,Nepal,M, Email
+87,Cody Coleman,burkeapril@example.net,Jessicaport,Wisconsin,Mayotte,male,GoogleAds
+88,Ian Kerr,gabrielprince@example.com,Lake Julieton,Alabama,El Salvador,f,LinkedIn
+89,Dr. Jared Luna,bentondavid@example.com,Lorimouth,Massachusetts,Chile,Male,Website
+90,Ashley Walker,enguyen@example.net,Glennville,North Dakota,United Arab Emirates,f,LinkedIn
+91,Terry Rivers MD,jennifer90@example.org,Douglasborough,Maine,Oman,m,LinkedIn
+92,Tracy Andrews,michael59@example.org,Mendezchester,New Jersey,Indonesia,f,GoogleAds
+93,Elizabeth Sanchez,benjaminmacdonald@example.com,Davismouth,New York,Dominica,Female, Email
+94,John Hughes,kathrynjacobs@example.com,Larryshire,New Mexico,Maldives,f,Website
+95,Keith Nelson MD,singletontaylor@example.net,Matthewview,New Hampshire,Singapore,F,Website
+96,Dr. Brent Williams,kimberlyberg@example.net,West Darrell,Mississippi,Estonia,Male, Email
+97,Colleen Frazier,hritter@example.com,Jenniferland,Kansas,United Kingdom,F, Email
+98,Patricia Werner,zbowman@example.net,Lake Julia,Idaho,Armenia,M, Email
+99,Sandra Greene,tiffany31@example.com,Lake Donna,Missouri,Nigeria,m,GoogleAds
+100,Lindsay Fowler,jsmith@example.com,Lake Michael,Oregon,Slovakia (Slovak Republic),Female, Email

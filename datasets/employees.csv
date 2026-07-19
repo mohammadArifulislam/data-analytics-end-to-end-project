@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,email,address,department,phone_number,position,join_date,birth_date,gender
+1,Robert Mendez,Lee,kevinstephens@example.com,"USNS Carter
+FPO AE 07432",Sales,001-342-410-6635,Analyst,2022-12-14,1975-05-03,F
+2,Caleb Melendez,Gilmore,melissaballard@example.com,"3416 Murphy Avenue Suite 983
+East Suzannemouth, WA 74517",Production,001-623-746-0344,Manager,2023-09-02,1972-09-03,M
+3,Nicholas Mendez,Chavez,brandon35@example.org,"9409 Alexander Heights Suite 921
+Lake John, WA 94055",HR,970-923-2007x255,Manager,2024-01-09,1970-06-28,F
+4,Richard Murray,Adams,connie52@example.org,"31646 Olson Unions
+Ryanhaven, WV 26463",Production,(941)218-5261x636,Analyst,2023-03-03,2006-06-17,M
+5,Robert Warren,Conley,carlyrhodes@example.com,"1619 Corey Knolls
+North Thomasville, HI 15511",Production,224-778-4853x746,Coordinator,2022-08-24,1977-12-20,M
+6,Danielle Stokes,Jones,cjohnson@example.net,"6692 Gary Viaduct
+Tannerberg, AR 32356",Production,+1-482-986-1775x88053,Executive,2026-02-26,1977-06-26,F
+7,Matthew Yu,Smith,larrypatterson@example.com,"3979 William Streets
+East Lauraport, DE 12567",Production,001-779-973-2419x503,Specialist,2025-01-15,1991-10-07,M
+8,Christine Davis,Hobbs,mary72@example.com,"18346 Brooke Roads
+Miguelton, MA 93402",Sales,(448)414-6861x04441,Specialist,2023-02-12,1981-05-16,F
+9,Gina House,Green,coreyluna@example.net,"07285 Stephanie Mission
+Port Melindaberg, VI 83257",Sales,+1-710-995-0701x215,Coordinator,2023-06-08,1969-05-01,M
+10,Arthur Pittman,Bentley,jennifermueller@example.com,"991 Molina Trail
+West Dennis, AK 49911",Production,702.730.5269x93327,Analyst,2022-03-08,2003-07-07,F
+11,David Robinson,Parker,udavis@example.net,"71934 Brittany Falls Apt. 080
+East Marissa, WI 49822",HR,933-357-0074x6707,Manager,2023-10-10,2001-03-16,M
+12,James Hamilton,Palmer,rhodescraig@example.com,"09354 David Prairie
+Ricechester, IL 36478",HR,(528)676-9639x2942,Specialist,2022-05-16,2004-11-09,M
+13,Elizabeth Lamb,King,joshua06@example.net,"83849 Young Dale Suite 966
+South Frank, GA 86287",Sales,+1-890-897-1360,Coordinator,2022-03-22,1970-05-08,M
+14,Justin Miller,Hernandez,dana05@example.org,"6747 Bell Vista Apt. 477
+New Amber, VI 21693",Production,2396345233,Manager,2024-05-01,1980-03-28,F
+15,Jesse Vasquez,Pham,amyparker@example.net,"PSC 0930, Box 5364
+APO AA 90218",HR,257-635-0438x62436,Manager,2025-10-23,1974-01-27,F
+16,Curtis Johnson,Wright,shawnhess@example.com,"291 David Throughway
+New Sarahport, IL 35793",Production,2774568589,Analyst,2026-01-10,1976-06-05,M
+17,Patricia Shea,Lowery,iwood@example.net,"0996 Wilson Plaza
+Dianeberg, WV 02984",Production,+1-799-944-6936x1295,Analyst,2022-05-09,2004-03-15,M
+18,Megan Rollins,Myers,vterry@example.com,"34705 Lawrence Points
+Lake Daniel, NC 56707",Production,001-296-234-5501,Manager,2022-12-04,1994-05-12,M
+19,Jorge Hunt,Monroe,autumn42@example.com,"82642 Zachary Cliffs Apt. 439
+Carterport, CO 42039",Sales,813-575-3317x25175,Coordinator,2021-09-02,1993-03-16,M
+20,Thomas Swanson,Anderson,cjones@example.org,"021 Michael Route
+Turnerton, AL 86259",HR,212.607.0032x563,Coordinator,2023-07-22,1968-09-07,M
+21,Mary Anderson,Camacho,gpeterson@example.net,"947 Justin Park
+Crawfordton, PA 19274",HR,(615)828-1086,Manager,2025-07-11,1971-02-01,M
+22,Erin Carter,Miles,estanton@example.net,"2850 Ramirez Point Apt. 324
+Sandrahaven, CA 77147",Production,762-721-7317x47975,Specialist,2022-06-08,1960-07-22,F
+23,Chad Cruz,Barron,katherine70@example.com,"1109 Gutierrez Place
+Wallmouth, KY 86350",Production,001-422-235-9363,Executive,2023-05-16,2004-03-31,F
+24,Anthony Gonzalez,Brooks,brian79@example.org,"37676 Matthew Roads Apt. 186
+Port Amanda, AZ 73003",HR,(565)207-1225,Specialist,2026-05-19,1979-08-30,M
+25,Amanda Jarvis,Williams,rshaw@example.com,"95050 Phillips Parkway Suite 478
+Allenville, OR 73340",Sales,(920)939-5125,Coordinator,2023-10-17,1971-09-27,M
+26,Jaime Moore,George,cordovatimothy@example.net,"7197 Courtney Meadow Apt. 341
+Wrightburgh, VI 77004",HR,9403556675,Manager,2025-11-05,1991-10-04,F
+27,Carol Johnson,Butler,lisa94@example.net,"12733 John Key
+South Danmouth, SD 47687",Sales,290-490-4380x41530,Manager,2024-06-30,1964-03-30,F
+28,Erik Walters DDS,Travis,washingtonbarbara@example.net,"9712 Roman Ford Apt. 464
+North Danielle, WY 82809",Sales,(465)551-6299x2124,Manager,2025-07-20,1966-11-06,F
+29,Kelly Stevens,Williams,rwashington@example.com,"44159 Paul Knoll
+Crystalberg, KY 85057",Sales,(276)338-7391x1411,Executive,2023-06-30,2005-02-02,M
+30,Kimberly Parker,Rosales,rzamora@example.net,"80826 Michael Gardens Suite 823
+Tinaside, KS 77042",HR,333-230-0775,Executive,2021-08-22,2001-05-05,F
+31,William Santana,Ruiz,fitzpatrickmark@example.com,"189 Cox Fords Apt. 581
+Greenborough, AR 52042",HR,791.246.9677,Specialist,2022-09-06,2002-08-02,F
+32,Mrs. Laura Johnson,Castro,mbray@example.net,"548 Jesus Centers
+Jessicatown, NH 26310",Sales,(880)613-5304,Manager,2022-03-31,1980-12-15,F
+33,Kevin Jackson,Lewis,dalton68@example.com,"2190 Christina Hollow
+Carlsontown, HI 99714",Production,860-571-2476x24756,Coordinator,2025-04-17,1975-10-02,M
+34,Nicholas Martinez,Lucas,robertspriscilla@example.net,"34119 Hunt Isle Apt. 941
+Snyderchester, NC 27544",HR,+1-419-474-5432x910,Specialist,2025-09-11,1966-09-23,M
+35,Chelsea Villegas,Craig,tracyfitzgerald@example.com,"7232 Ayala Parkways Apt. 001
+South Erin, DE 45705",HR,001-576-537-6226,Analyst,2021-11-04,2001-02-07,M
+36,Daniel Peterson,Williams,samanthaweeks@example.net,"62413 Samantha Key Suite 860
+New Jamiemouth, PA 31836",Production,846-589-2091x5633,Coordinator,2024-03-27,1979-07-09,F
+37,Lisa Welch,House,vmedina@example.com,"9312 Martin Brook
+Clarkstad, WA 64541",HR,836.316.0354,Executive,2025-12-27,2001-05-02,F
+38,Justin Cruz,Carroll,rileyrobert@example.net,"320 Landry Branch Apt. 987
+Lake Tyler, WI 26768",Sales,618.888.7551,Manager,2021-10-18,2005-11-26,F
+39,Melissa Chaney,Anderson,alyssa84@example.net,"8583 John Ports
+Ballardland, IN 60124",HR,537.556.4163x21873,Analyst,2022-01-05,1960-12-11,M
+40,William Jacobs,Shields,ujohnson@example.org,"0315 Kara Summit
+South Mitchellfort, NM 65573",Sales,704-732-8587,Analyst,2025-06-20,2003-11-05,F
+41,Brian Long,Mitchell,mcameron@example.com,"34013 Harrington Canyon Suite 914
+New Joannefort, LA 08600",Production,+1-677-345-2744,Analyst,2024-03-15,1978-05-15,M
+42,Daniel Nelson,Gray,maureenduke@example.com,"6551 Carrie Extensions Apt. 054
+Johnsonstad, ND 28849",Sales,349.341.9732x92350,Analyst,2025-01-25,1961-12-14,F
+43,Adam Anderson MD,Warner,duncannatalie@example.org,"PSC 3663, Box 4740
+APO AE 95557",HR,708.531.4279x89314,Manager,2024-01-03,1982-09-10,M
+44,Hunter Glenn,Beasley,christina66@example.org,"Unit 8993 Box 5464
+DPO AE 08624",HR,(216)355-2031,Executive,2024-03-01,1988-03-13,M
+45,Daniel Garner,Rivera,nguyenjustin@example.org,"38158 Randall Parkway Apt. 218
+South Timothyview, MO 35627",Sales,001-995-214-4787x37229,Coordinator,2022-08-04,2000-09-18,F
+46,Robert Riggs,Morris,housechristopher@example.com,"57203 Todd Port Apt. 004
+Michaelburgh, KS 40841",Production,747.951.1490x0654,Executive,2025-09-07,1964-02-17,M
+47,Frank Brown,Jones,james43@example.net,"5475 Tina Views Apt. 600
+Cameronton, WV 87867",Production,956-870-0239x414,Executive,2022-09-01,1969-01-07,F
+48,Caleb Mooney,Wilson,zachary90@example.org,"55662 Linda Station
+Latashamouth, ND 41294",Production,949.332.5567,Coordinator,2023-08-31,1962-12-14,F
+49,Donna Ruiz,Hernandez,michael87@example.net,"597 Young Mill
+North Robin, AR 40614",HR,704-411-3801,Analyst,2026-04-03,1983-04-23,F
+50,Joshua Brown,Cortez,usteele@example.net,"23926 Melissa Circles
+North Joshuaville, IA 97355",Production,840-678-4022,Analyst,2022-12-27,2007-08-21,F

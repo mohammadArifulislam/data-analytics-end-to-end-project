@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,production_quantity,production_date
+1,Air Fryer,Homes & Kitchen,Mouse,53,2026-05-29
+2,Flash Drive,Homes & Kitchen,Smartphone,34,2026-04-28
+3,Printer,Electronics,Monitor,27,2026-02-05
+4,Camera,Electronics,Camera,20,2026-06-11
+5,Smartphone,Electronics,Smartphone,94,2025-11-11
+6,Printer,Consumers,Smartphone,84,2025-11-10
+7,Tablet,Electronics,Mouse,40,2026-02-22
+8,Microwave Oven,Homes & Kitchen,Laptop,100,2026-05-09
+9,Drone,Electronics,Tablet,27,2026-06-10
+10,Blender,Electronics,Printer,11,2025-11-26
+11,Mouse,Homes & Kitchen,Printer,85,2025-11-14
+12,Slow Cooker,Electronics,Printer,11,2025-10-13
+13,Rice Cooker,Homes & Kitchen,Mouse,78,2025-10-26
+14,Food Processor,Consumers,Headphones,100,2025-07-21
+15,Projector,Homes & Kitchen,Mouse,52,2025-07-23
+16,Juicer,Consumers,Mouse,98,2025-11-26
+17,Drone,Consumers,Keyboard,48,2025-12-18
+18,Hair Dryer,Electronics,Monitor,30,2026-01-19
+19,Flash Drive,Homes & Kitchen,Keyboard,26,2026-01-19
+20,Smartwatch,Electronics,Tablet,35,2026-02-01
+21,Laundry Detergent Pods,Consumers,Printer,38,2026-06-01
+22,Smartwatch,Electronics,Monitor,95,2025-09-22
+23,Smartphone,Electronics,Printer,87,2025-08-05
+24,Router,Electronics,Mouse,57,2026-03-25
+25,Fitness Tracker,Electronics,Monitor,34,2026-05-09
+26,Drone,Electronics,Tablet,23,2026-06-23
+27,Stand Mixer,Electronics,Printer,44,2025-11-29
+28,Ironing Board,Consumers,Printer,74,2026-03-09
+29,Camera,Electronics,Mouse,12,2025-08-20
+30,Water Filter Pitcher,Homes & Kitchen,Mouse,94,2026-03-01
+31,Rice Cooker,Homes & Kitchen,Laptop,100,2026-07-13
+32,Coffee Maker,Homes & Kitchen,Smartphone,62,2025-11-13
+33,External Hard Drive,Homes & Kitchen,Smartphone,62,2025-11-04
+34,Coffee Maker,Consumers,Monitor,94,2025-12-21
+35,Keyboard,Electronics,Mouse,17,2026-03-15
+36,External Hard Drive,Electronics,Laptop,33,2026-01-18
+37,Microphone,Electronics,Laptop,24,2026-01-24
+38,Vacuum Cleaner,Consumers,Camera,92,2026-02-10
+39,Projector,Electronics,Monitor,82,2025-12-21
+40,Laundry Detergent Pods,Consumers,Keyboard,37,2025-10-04
+41,Headphones,Homes & Kitchen,Camera,64,2025-07-19
+42,Juicer,Electronics,Printer,45,2026-03-01
+43,Laptop,Homes & Kitchen,Tablet,14,2025-09-06
+44,Laptop,Homes & Kitchen,Monitor,43,2026-01-04
+45,Rice Cooker,Consumers,Tablet,60,2026-07-18
+46,Drone,Consumers,Tablet,80,2025-12-19
+47,Laundry Detergent Pods,Homes & Kitchen,Smartwatch,83,2025-07-31
+48,Smartwatch,Homes & Kitchen,Printer,45,2026-04-13
+49,Fitness Tracker,Electronics,Monitor,40,2026-06-17
+50,Speaker,Homes & Kitchen,Camera,72,2026-02-28
