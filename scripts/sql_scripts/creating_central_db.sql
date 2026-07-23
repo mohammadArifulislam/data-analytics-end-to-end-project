@@ -1,3 +1,12 @@
+/*
+=============================================================
+Create Central Database, Schemas and Tables
+=============================================================
+Script Purpose:
+    This script creates a new central database named 'BluesLtd'. The script sets up three schemas 
+    within the database: 'bronze', 'silver', and 'gold' using 'PostgreSQL' database with localhost.
+*/
+
 CREATE DATABASE BluesLtd;
 
 CREATE SCHEMA erp;
