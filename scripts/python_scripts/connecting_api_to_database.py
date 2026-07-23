@@ -1,3 +1,13 @@
+"""
+=============================================================
+Connecting Database to the api
+=============================================================
+Script Purpose:
+    This script create connection with datables named 'BluesLtd'.
+Note:
+    Keep this script same Folder directory where mail.py file was located. 
+"""
+
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
