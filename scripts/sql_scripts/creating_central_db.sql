@@ -5,6 +5,8 @@ Create Central Database, Schemas and Tables
 Script Purpose:
     This script creates a new central database named 'BluesLtd'. The script sets up three schemas 
     within the database: 'bronze', 'silver', and 'gold' using 'PostgreSQL' database with localhost.
+Note:
+    The 'crm' source tables come from api request so that the tables design should match along with python tables schemas names. 
 */
 
 CREATE DATABASE BluesLtd;
