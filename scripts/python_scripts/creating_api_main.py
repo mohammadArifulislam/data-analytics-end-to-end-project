@@ -1,3 +1,14 @@
+"""
+#==============================================================================================
+Creating APP using FastAPI & Insert Data to the Central Database with api request
+#==============================================================================================
+Script purpose:
+        This script is to build api with fastapi and inserting data with http request.
+    Note:
+       Columns names are case sensitive.
+
+"""
+
 from datetime import date
 from typing import List
 from fastapi import Depends, FastAPI, HTTPException, status
