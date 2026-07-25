@@ -3,16 +3,20 @@
 Create Central Database, Schemas and Tables
 =============================================================
 Script Purpose:
-    This script creates a new central database named 'BluesLtd'. The script sets up three schemas 
-    within the database: 'bronze', 'silver', and 'gold' using 'PostgreSQL' database with localhost.
+    This script creates a new central database named 'BluesLtd'. The script sets up two schemas 
+    within the database: 'erp' & 'crm' using 'PostgreSQL' database with localhost.
 Note:
-    The 'crm' source tables come from api request so that the tables design should match along with python tables schemas names. 
+    -The 'crm' source tables come from api request so that the tables design should match along with python tables schemas names.
+    -The 'erp' source tables come from local csv file from the folders
 */
-
+---creating database 
 CREATE DATABASE BluesLtd;
 
+---creating schemas 
 CREATE SCHEMA erp;
+CREATE SCHEMA crm;
 
+---creating tables
 CREATE TABLE erp.employees (
     employee_id     VARCHAR PRIMARY KEY NOT NULL,
     first_name      VARCHAR(100) NOT NULL,
@@ -47,7 +51,6 @@ CREATE TABLE erp.products (
     production_quantity  INT,
     production_date      DATE
 );
-CREATE SCHEMA crm;
 CREATE TABLE crm.customers (
     customer_id     VARCHAR,
     customer_name   VARCHAR,
@@ -57,9 +60,7 @@ CREATE TABLE crm.customers (
     country         VARCHAR,
     gender          VARCHAR,
     platform        VARCHAR
-)
-
-
+);
 CREATE TABLE crm.sales (
     sale_id             VARCHAR PRIMARY KEY NOT NULL,
     customer_id         VARCHAR,
@@ -71,4 +72,4 @@ CREATE TABLE crm.sales (
     discount            FLOAT,
     tax                 FLOAT,
     payment_method      VARCHAR
-)
+);
