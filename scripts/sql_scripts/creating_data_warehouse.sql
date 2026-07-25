@@ -1,6 +1,6 @@
 /*
 =============================================================
-Create Database and Schemas
+Create Database Warehouse and Schemas
 =============================================================
 Script Purpose:
     This script creates a new database named 'BluesLtd_DWH' after checking if it already exists. 
