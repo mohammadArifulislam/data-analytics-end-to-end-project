@@ -1,13 +1,14 @@
-"""
-#==============================================================================================
+'''
+==============================================================================================
 Creating APP using FastAPI & Insert Data to the Central Database with api request
-#==============================================================================================
+==============================================================================================
 Script purpose:
-        This script is to build api with fastapi and inserting data with http request.
+        This script is to build api with fastapi and inserting data with http request using post method. And also to check the
+        conformation of inserting data using get method.
     Note:
-       Columns names are case sensitive.
-
-"""
+       -Columns names are case sensitive.
+       -Need 'Postman' runner to run csv file through http request for inserting data into database.
+'''
 
 from datetime import date
 from typing import List
