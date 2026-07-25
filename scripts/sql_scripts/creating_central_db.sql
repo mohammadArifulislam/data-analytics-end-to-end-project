@@ -73,3 +73,10 @@ CREATE TABLE crm.sales (
     tax                 FLOAT,
     payment_method      VARCHAR
 );
+CREATE TABLE erp.costings (
+    product_id          VARCHAR,
+    raw_material_cost   FLOAT,
+    shiftment_cost      FLOAT,
+    maintainance_cost   FLOAT,
+    transportation_cost FLOAT
+);
