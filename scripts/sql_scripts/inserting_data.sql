@@ -1,6 +1,6 @@
 /*
 ===========================================================================
-Insert Data to The Central Database.
+Insert Data to The Central Database. (PostgesSQL)
 ===========================================================================
 Script purpose: 
         This script represents for inserting data from local csv file that we have made for this projects using python scripts.
