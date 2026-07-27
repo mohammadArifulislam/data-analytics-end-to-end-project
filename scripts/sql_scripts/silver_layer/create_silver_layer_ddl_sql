@@ -1,0 +1,126 @@
+/*
+===============================================================================
+DDL Script: Create Silver Tables
+===============================================================================
+Script Purpose:
+    This script creates tables in the 'silver' schema, dropping existing tables 
+    if they already exist.
+	  Run this script to re-define the DDL structure of 'bronze' Tables
+===============================================================================
+*/
+
+IF OBJECT_ID('silver.erp_employees', 'U') IS NOT NULL
+    DROP TABLE silver.erp_employees;
+
+GO
+
+CREATE TABLE silver.erp_employees (
+    employee_id     VARCHAR(100),
+    name            VARCHAR(100),
+    email           VARCHAR(100),
+    postal_code     VARCHAR(100),
+    road_name       VARCHAR(100),
+    house_no        VARCHAR(100),
+    department      VARCHAR(100),
+    phone_number    VARCHAR(100),
+    position        VARCHAR(100),
+    join_date       DATE,
+    birth_date      DATE,
+    gender          VARCHAR(100),
+    dwh_create_date DATETIME2 DEFAULT GETDATE()
+);
+IF OBJECT_ID('silver.erp_salaries', 'U') IS NOT NULL
+    DROP TABLE silver.erp_salaries;
+
+GO
+
+CREATE TABLE silver.erp_salaries (
+    salary_id       VARCHAR(100),
+    employee_id     VARCHAR(100),
+    basic_salary    DECIMAL,
+    bounus          DECIMAL,
+    join_date       DATE,
+    department      VARCHAR(100),
+    over_time_hours INT,
+    payment_date    DATE,
+    overtime_salary INT,
+    total_salary    INT,
+    dwh_create_date DATETIME2 DEFAULT GETDATE()
+);
+
+GO
+
+IF OBJECT_ID('silver.erp_products', 'U') IS NOT NULL
+    DROP TABLE silver.erp_products;
+
+GO
+
+CREATE TABLE silver.erp_products (
+    product_id           VARCHAR(100),
+    product_name         VARCHAR(100),
+    category             VARCHAR(100),
+    subcategory          VARCHAR(100),
+    production_quantity  INT,
+    production_date      DATE,
+    dwh_create_date DATETIME2 DEFAULT GETDATE()
+);
+
+GO
+
+IF OBJECT_ID('silver.crm_customers', 'U') IS NOT NULL
+    DROP TABLE silver.crm_customers;
+
+GO
+
+CREATE TABLE silver.crm_customers (
+    customer_id     VARCHAR(100),
+    customer_name   VARCHAR(100),
+    email           VARCHAR(100),
+    city            VARCHAR(100),
+    region          VARCHAR(100),
+    country         VARCHAR(100),
+    gender          VARCHAR(100),
+    platform        VARCHAR(100),
+    dwh_create_date DATETIME2 DEFAULT GETDATE()
+)
+
+GO
+
+IF OBJECT_ID('silver.crm_sales', 'U') IS NOT NULL
+    DROP TABLE silver.crm_sales;
+
+GO
+
+CREATE TABLE silver.crm_sales (
+    sale_id             VARCHAR(100),
+    customer_id         VARCHAR(100),
+    product_id          VARCHAR(100),
+    order_quantity      INT,
+    unit_price          FLOAT,
+    order_date          DATE,
+    shift_date          DATE,
+    discount            FLOAT,
+    tax                 FLOAT,
+    payment_method      VARCHAR(100),
+    total_sale          FLOAT,
+    dwh_create_date DATETIME2 DEFAULT GETDATE()
+);
+
+GO
+
+IF OBJECT_ID('silver.erp_costings', 'U') IS NOT NULL
+    DROP TABLE silver.erp_costings;
+
+GO
+
+CREATE TABLE silver.erp_costings (
+    product_id          VARCHAR(100),
+    raw_material_cost   FLOAT,
+    shiftment_cost      FLOAT,
+    maintainance_cost   FLOAT,
+    transportation_cost FLOAT,
+    total_cost          FLOAT,
+    dwh_create_date DATETIME2 DEFAULT GETDATE()
+);
+
+GO
